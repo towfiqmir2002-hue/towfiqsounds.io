@@ -38,7 +38,7 @@ button, a.download-btn {
     margin-top: 20px;
     padding: 12px 25px;
     background: #00eaff;
-    color: black;
+    color: white;
     font-weight: bold;
     border-radius: 8px;
     text-decoration: none;
@@ -47,7 +47,7 @@ button, a.download-btn {
 
 button:hover, a.download-btn:hover {
     background: white;
-    color: black;
+    color: white;
 }
 
 .footer {
